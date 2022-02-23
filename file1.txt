@@ -1,1 +1,2 @@
 We are in file1.txt. First file in the git folder.
+We all are indians and we love our country and are proud citizen of this country.
