@@ -1,0 +1,2 @@
+This is file2.txt. We are in file2 in local git repository.
+this line is added on 34/02/2022 at 12:36 noon
